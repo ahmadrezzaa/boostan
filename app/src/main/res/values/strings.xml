@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Boostan</string>
+    <string name="txtSplashScreen">Version: </string>
+    <string name="txt_splashScreen_title">بوستان</string>
+    <string name="edt_main_hint_search">جستجو</string>
+    <string name="edt_search_hint_search">جستجو...</string>
+    <string name="home_menu">خانه</string>
+    <string name="fav_menu">علاقه مندی ها</string>
+    <string name="txt_homeFrg_cactus">انواع کاکتوس</string>
+    <string name="txt_homeFrg_plants">انواع گیاهان</string>
+    <string name="txt_homeFrg_flower">انواع گل ها</string>
+    <string name="txt_homeFrg_trees">انواع درختان</string>
+    <string name="txt_itemRecycler_tools_introduction">این گیاه در روزهای نزدیک به کریسمس کوتاه تر شده و گل میدهد و بسیار زیباتر میشود اگر به خوبی نگهداری شود در فصل بهار و تابستان هم گل میدهد</string>
+    <string name="txt_detail_name">نام گل :</string>
+    <string name="txt_detail_introduction">معرفی :</string>
+    <string name="txt_detail_titleMaintenance">شرایط نگهداری :</string>
+    <string name="txt_detail_light">نوردهی :</string>
+    <string name="txt_detail_water"> آبیاری :</string>
+    <string name="txt_detail_soil">خاک :</string>
+    <string name="txt_detail_fertilizer">کوددهی :</string>
+    <string name="txt_detail_pests">آفات :</string>
+    <string name="txt_detail_toxic">سمی بودن :</string>
+    <string name="txt_detail_temperate">دما :</string>
+    <string name="txt_detail_reproduction"> تکثیر  :</string>
+    <string name="txt_detail_prune">هرس کردن :</string>
+    <string name="txt_detail_humidity">رطوبت :</string>
+    <string name="txt_detail_furtherInfo">اطلاعات تکمیلی :</string>
+</resources>

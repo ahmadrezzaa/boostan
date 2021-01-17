@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.boostan">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Boostan"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".Search.SearchActivity"></activity>
+        <activity android:name=".Trees.TreesActivity" />
+        <activity android:name=".Plants.PlantsActivity" />
+        <activity android:name=".Flower.FlowerActivity" />
+        <activity android:name=".Detail.DetailActivity" />
+        <activity android:name=".Cactus.CactusActivity" />
+        <activity android:name=".Favorit.FavoritActivity" />
+        <activity
+            android:name=".SplashScreen.SplashScreen"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Main.MainActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
